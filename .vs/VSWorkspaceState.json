@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\example",
+    "\\src\\main\\java\\com\\example\\productivity_tracker",
+    "\\src\\main\\java\\com\\example\\productivity_tracker\\contoller",
+    "\\src\\main\\java\\com\\example\\productivity_tracker\\model",
+    "\\src\\main\\java\\com\\example\\productivity_tracker\\repository"
+  ],
+  "SelectedNode": "\\src\\main\\java\\com\\example\\productivity_tracker\\model\\Activity.java",
+  "PreviewInSolutionExplorer": false
+}
